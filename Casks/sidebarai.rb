@@ -15,5 +15,4 @@ cask "sidebarai" do
   uninstall quit: "com.icelemontees.SideBarAI"
 
   zap trash: "~/Library/Preferences/com.icelemontees.SideBarAI.plist"
-
 end
