@@ -17,7 +17,9 @@ cask "sidebarai" do
   zap trash: "~/Library/Preferences/com.icelemontees.SideBarAI.plist"
 
   caveats <<~EOS
-    SideBarAI is ad-hoc signed and not notarized. If macOS blocks the first
-    launch, right-click the app in /Applications and choose Open.
+    SideBarAI is ad-hoc signed and not notarized, so macOS blocks the first
+    launch. Allow it in System Settings > Privacy & Security > Open Anyway,
+    or run:
+      xattr -dr com.apple.quarantine /Applications/SideBarAI.app
   EOS
 end
