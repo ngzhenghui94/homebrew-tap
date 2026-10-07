@@ -1,6 +1,6 @@
 cask "sidebarai" do
-  version "1.0.0"
-  sha256 "cd6f4c4a160dd32dfb4de75016cc720fbbe59d30d794c36d32fdd5b9abc1b599"
+  version "1.0.1"
+  sha256 "65fedc245df92adc038e2cbfc4d762e14b8af45c06e8d59c7352f7e4e0bdf0fe"
 
   url "https://github.com/ngzhenghui94/SideBarAI/releases/download/v#{version}/SideBarAI-#{version}.zip"
   name "SideBarAI"
@@ -16,10 +16,4 @@ cask "sidebarai" do
 
   zap trash: "~/Library/Preferences/com.icelemontees.SideBarAI.plist"
 
-  caveats <<~EOS
-    SideBarAI is ad-hoc signed and not notarized, so macOS blocks the first
-    launch. Allow it in System Settings > Privacy & Security > Open Anyway,
-    or run:
-      xattr -dr com.apple.quarantine /Applications/SideBarAI.app
-  EOS
 end
