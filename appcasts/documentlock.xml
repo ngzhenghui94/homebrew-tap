@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
+<title>Document Lock Updates</title><link>https://github.com/ngzhenghui94/homebrew-tap</link>
+<description>Signed updates for Apple silicon.</description><item>
+<title>Document Lock 0.1.1</title>
+<sparkle:version>2</sparkle:version>
+<sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ngzhenghui94/homebrew-tap/releases/download/documentlock-v0.1.1/DocumentLock-0.1.1-arm64.zip" length="26570779" type="application/octet-stream" sparkle:edSignature="OSYsxX2IZqMf/tmgyDmVZmliB0iwcSYa2hFGyN14g1fVj4Lxr+V5d8fam+u5jUzKZDpoixLildUlBsMstMZpCg=="></enclosure>
+</item></channel></rss><!-- sparkle-signatures:
+edSignature: rw1mV2tDhdfXgE4JZ2DwL+FLJkyxnLEOnOO3VNmGyEEREuxj5v0TJ3oQddnrkSV2wETYhfq95jcZz3brWHe7Bw==
+length: 1076
+-->
