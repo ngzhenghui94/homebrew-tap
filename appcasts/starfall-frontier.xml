@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Starfall Frontier Updates</title><link>https://github.com/ngzhenghui94/homebrew-tap</link><description>Signed universal macOS updates.</description><item><title>Starfall Frontier 1.0.1</title><sparkle:version>1</sparkle:version><sparkle:shortVersionString>1.0.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/ngzhenghui94/homebrew-tap/releases/download/starfall-frontier-v1.0.1/Starfall-Frontier-1.0.1-universal.zip" length="39463770" type="application/octet-stream" sparkle:edSignature="Qbdbjxd/9Cu2GZauYZLDHMiNYLAh9kL6Eu3lNI1dpEkIwQ9fxley1cToQSdUzLB4QLrHJ69CwjdxAReyNmVHDw=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: hE/30gFsKMKypjsTDG6hQJruHWXFRX3ONriMk+RSMjbb2GuV0kM6fpxqwVeWxwINFuo5TtxInE9+Ah1pC5ZCAw==
+length: 1088
+-->
