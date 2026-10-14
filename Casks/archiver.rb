@@ -1,8 +1,8 @@
 cask "archiver" do
-  version "1.0"
-  sha256 "b9c128c20f0890b1564394149001e135f2acebb7180f33a9bd0ec15260993463"
+  version "1.2"
+  sha256 "d9b696dd9707f2aa3f0c0e5da6fa02337a334f54feaa20f588cb8e97f0ac90d2"
 
-  url "https://github.com/ngzhenghui94/unarchiver/releases/download/v1.0/Archiver-1.0-arm64.zip"
+  url "https://github.com/ngzhenghui94/unarchiver/releases/download/v#{version}/Archiver-#{version}-arm64.zip"
   name "Archiver"
   desc "Native archive extraction and ZIP creation"
   homepage "https://github.com/ngzhenghui94/unarchiver"

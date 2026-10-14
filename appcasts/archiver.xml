@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Archiver Updates</title>
+    <link>https://github.com/ngzhenghui94/homebrew-tap</link>
+    <description>Signed Archiver updates for Apple Silicon.</description>
+    <item>
+      <title>Archiver 1.2</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ngzhenghui94/unarchiver/releases/download/v1.2/Archiver-1.2-arm64.zip" length="4085200" type="application/octet-stream" sparkle:edSignature="Qg0N1AUaxt5ZvVWB1DbnebFMMMewz/ffZItmDVb+olmMD+tI94T5SHk71KgY8jqTkMz5sHApFEKU10BFiyH/CQ=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: vCwzVBr+sgI28yNWwXX6PBq8g7p7BYjwpb9wA7XPOb307mpnNGQHPGKDzOxQxvK9VgP//RFZ0RaZDtHGHqIACA==
+length: 1106
+-->
