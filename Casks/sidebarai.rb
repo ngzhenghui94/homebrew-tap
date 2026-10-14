@@ -1,18 +1,11 @@
 cask "sidebarai" do
-  version "1.0.1"
-  sha256 "65fedc245df92adc038e2cbfc4d762e14b8af45c06e8d59c7352f7e4e0bdf0fe"
-
-  url "https://github.com/ngzhenghui94/SideBarAI/releases/download/v#{version}/SideBarAI-#{version}.zip"
+  version "1.0.3"
+  sha256 "12f5838478234682c70e435a91c659af51dcca6e099aeea01fd242e9b6c4a05f"
+  url "https://github.com/ngzhenghui94/SideBarAI/releases/download/v1.0.3/SideBarAI-1.0.3.zip"
   name "SideBarAI"
-  desc "Edge sidebar and menu bar monitor for Claude, Codex and Antigravity usage"
+  desc "Native macOS menu-bar utility"
   homepage "https://github.com/ngzhenghui94/SideBarAI"
-
   depends_on arch: :arm64
   depends_on macos: :sonoma
-
   app "SideBarAI.app"
-
-  uninstall quit: "com.icelemontees.SideBarAI"
-
-  zap trash: "~/Library/Preferences/com.icelemontees.SideBarAI.plist"
 end
