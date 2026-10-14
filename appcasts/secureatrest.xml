@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
+<title>secureAtRest Updates</title><link>https://github.com/ngzhenghui94/homebrew-tap</link>
+<description>Signed updates for Apple silicon.</description><item>
+<title>secureAtRest 1.0.1</title>
+<sparkle:version>2</sparkle:version>
+<sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ngzhenghui94/homebrew-tap/releases/download/secureatrest-v1.0.1/secureAtRest-1.0.1-arm64.zip" length="1421073" type="application/octet-stream" sparkle:edSignature="GSu4oz3YFO2oFJLsiwJRGfP15iLInghHGpesG9OnIoqQyE6NpkO5nprHtr6qBzJqwm4E/sZ73WWQBDlUFIWABA=="></enclosure>
+</item></channel></rss><!-- sparkle-signatures:
+edSignature: yPZRsG3pP+wK4YmZ+Cowx1xrVLaBMgrmU7+GTTFUvw73JJm4IVlkmxqEKqzCi002QZwVecRs5NkVa7UG4SFcAg==
+length: 1073
+-->
