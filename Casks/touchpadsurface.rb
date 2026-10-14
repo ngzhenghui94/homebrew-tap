@@ -1,7 +1,7 @@
 cask "touchpadsurface" do
-  version "1.0.1"
-  sha256 "db5c71248c59c1cd0f2c1c17c027ebd2a0ee2cdc0635640c3ff872d4867f539e"
-  url "https://github.com/ngzhenghui94/homebrew-tap/releases/download/touchpadsurface-v1.0.1/TouchpadSurface-1.0.1.zip"
+  version "1.0.2"
+  sha256 "323eaf3f6445638139f80e4060a8065e2fba260eb4c5a4482e9acb0b9b112734"
+  url "https://github.com/ngzhenghui94/homebrew-tap/releases/download/touchpadsurface-v1.0.2/TouchpadSurface-1.0.2.zip"
   name "Touchpad Surface"
   desc "Native macOS menu-bar utility"
   homepage "https://github.com/ngzhenghui94/homebrew-tap"
