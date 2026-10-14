@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
+<title>systemInfo Updates</title><link>https://github.com/ngzhenghui94/homebrew-tap</link><description>Signed and notarized systemInfo updates</description>
+<item><title>systemInfo 1.5</title><sparkle:version>6</sparkle:version><sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ngzhenghui94/homebrew-tap/releases/download/systeminfo-v1.5/systemInfo-1.5.zip" length="2427866" type="application/octet-stream" sparkle:edSignature="U8WTCN6ZS9U4nEaFzSKZwdl1RQp+dWTgHjvtuK24CV6xwnxWqEygaQEGuOLSLZ1tzPaS9s1vilaDyFUcv404AA=="></enclosure></item>
+</channel></rss><!-- sparkle-signatures:
+edSignature: Tl8bWjawWVJ9HS9wFFL7fWI1IHTynBxnXfV8W6QYhXmvY9/A0uipYvuZVqsWhXlPvrc9pGYaOnNZlj/d123tBA==
+length: 1054
+-->
