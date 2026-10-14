@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
+<title>Touchpad Surface Updates</title><link>https://github.com/ngzhenghui94/homebrew-tap</link><description>Signed Apple Silicon updates</description>
+<item><title>Touchpad Surface 1.0.1</title><sparkle:version>2</sparkle:version>
+<sparkle:shortVersionString>1.0.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ngzhenghui94/homebrew-tap/releases/download/touchpadsurface-v1.0.1/TouchpadSurface-1.0.1.zip" length="5771446" type="application/octet-stream" sparkle:edSignature="Xt+P3Z4p9YHmdRuJJvH+jxeQcW2OIqu4IdfmQRib4cihL1E+d+MhjD8hOZ4bDPlPJCtT7SvaaVSDNY7V0l14Bg=="></enclosure></item>
+</channel></rss><!-- sparkle-signatures:
+edSignature: lU7sZ0rpd1Jb9i89XdhpS2tRDnbEa2kwGXb+ltjlp5xrEXA7LtlQrA9cO6o0PXqZ/thvj6EtDYT0kJp6aNpXBg==
+length: 1073
+-->
