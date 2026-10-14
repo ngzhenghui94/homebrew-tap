@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
+<title>tabby Updates</title><link>https://github.com/ngzhenghui94/homebrew-tap</link><description>Signed and notarized tabby updates</description>
+<item><title>tabby 1.2</title><sparkle:version>3</sparkle:version><sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ngzhenghui94/homebrew-tap/releases/download/tabby-v1.2/tabby-1.2.zip" length="2828482" type="application/octet-stream" sparkle:edSignature="z+Yx/gi7ipDhOvpdo/LvsHXGQi+hSuO93YNUIMOukNK0vt03meAeiTHsUKNRpVBJwRoEuvqdcwEqUOaJCb/ICQ=="></enclosure></item>
+</channel></rss><!-- sparkle-signatures:
+edSignature: +eWr2bEQbi28sbFGsI7jVvD39ehGw5XPdzGLiiXHHR6unaNXg3gLqDxnME2PHFM1QZHJhZsJwdTgzbOMLMosBA==
+length: 1029
+-->
