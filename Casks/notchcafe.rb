@@ -5,7 +5,7 @@ cask "notchcafe" do
   url "https://github.com/ngzhenghui94/notchcafe-releases/releases/download/v#{version}/NotchCafe.dmg"
   name "NotchCafe"
   desc "Notch companion for files, focus, notes, and music"
-  homepage "https://www.24hr.cafe"
+  homepage "https://www.24hr.cafe/"
 
   auto_updates true
   depends_on arch: :arm64
