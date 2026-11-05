@@ -1,6 +1,6 @@
 cask "notchcafe" do
-  version "1.4.22"
-  sha256 "1b492fb43edefca81162f9a017250d00056129ec31ae0f8c90e820815bba12f2"
+  version "1.4.27"
+  sha256 "2e61e05db984c0b96ea91379e9edda3ac64cb2b7e77a499643a6ed870ee177b2"
 
   url "https://github.com/ngzhenghui94/notchcafe-releases/releases/download/v#{version}/NotchCafe.dmg"
   name "NotchCafe"
