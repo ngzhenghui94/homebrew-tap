@@ -1,6 +1,6 @@
 cask "swissknife" do
-  version "1.8"
-  sha256 "1066ba78de9a9224a221727e2a6b92a1f5a3efe121d2d770c4fbe119e550949d"
+  version "1.8.2"
+  sha256 "40249a9dd49904ded12c54e6c8c8faafd16ef2fd1169f976c454f7e33eab2dd9"
 
   url "https://github.com/ngzhenghui94/homebrew-tap/releases/download/swissknife-v#{version}/swissKnife-#{version}-arm64.zip"
   name "swissKnife"
