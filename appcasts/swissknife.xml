@@ -6,14 +6,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/ngzhenghui94/homebrew-tap</link>
     <description>Signed swissKnife updates for Apple Silicon.</description>
     <item>
-      <title>swissKnife 1.8.2</title>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+      <title>swissKnife 1.8.3</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ngzhenghui94/homebrew-tap/releases/download/swissknife-v1.8.2/swissKnife-1.8.2-arm64.zip" length="29209217" type="application/octet-stream" sparkle:edSignature="qbOCsjQWF0gDejUKDFBmGhdQlbMOIxVyrlgjf5F032bMh//jEoPQZUzFepf8jC3OPPHFyRt0lUl53ioO7gNFCA=="></enclosure>
+      <enclosure url="https://github.com/ngzhenghui94/homebrew-tap/releases/download/swissknife-v1.8.3/swissKnife-1.8.3-arm64.zip" length="29210057" type="application/octet-stream" sparkle:edSignature="IIBte4aQ+TI1bWbcYMzlv0thFhVqeETY4tlnrQ6n2ONlC9n2qDkla8R0hpOO6PYagRBDyFkbekRPkromoKezCQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WgPznnPB1jbl1fi2hOz2eqL3yezyevUGPqnTi7ptp1H+Vrsw7pzR4cphueIOU1UHdUs7I1ZJcr+ZtmNQ744cAw==
+edSignature: sbHgQqFKA+CGJ0nglA0E5O4nvdAHbAfVtqqH0/tPgaDXG0hkcKZ8a4fqNwLMoy2aATzh5PV8wKE51EzvKH9kCw==
 length: 1137
 -->
