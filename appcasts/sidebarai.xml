@@ -2,10 +2,10 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
 <title>SideBarAI Updates</title><link>https://github.com/ngzhenghui94/SideBarAI</link><description>Signed Apple Silicon updates</description>
-<item><title>SideBarAI 1.0.4</title><sparkle:version>5</sparkle:version>
-<sparkle:shortVersionString>1.0.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ngzhenghui94/SideBarAI/releases/download/v1.0.4/SideBarAI-1.0.4.zip" length="3043744" type="application/octet-stream" sparkle:edSignature="bRHsPwrjFo8+pJAur+f08hRIsboLx8BT4nxAl7UlsrrY2hnUTAo3nvKX6LAMmpxoJT6/jGeNGSmhnzAMn3gKDw=="></enclosure></item>
+<item><title>SideBarAI 1.0.6</title><sparkle:version>7</sparkle:version>
+<sparkle:shortVersionString>1.0.6</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ngzhenghui94/SideBarAI/releases/download/v1.0.6/SideBarAI-1.0.6.zip" length="3044777" type="application/octet-stream" sparkle:edSignature="mmXPMKveexJ77eThaZSOPCYo9hEphnorle0cZhQWsZX2j4BUaQvb72xaimL0TZGF1ixRFRLDoVs2BaAml2q+Dw=="></enclosure></item>
 </channel></rss><!-- sparkle-signatures:
-edSignature: XpAOhum1NgNLKgNZRpYTVgqQraj7YEh0mpEaY3Dyap6bDo4M3DbkAkJYKvqS8ZbcbeP0TPC0QUYgbMgrizqNBQ==
+edSignature: Tc0xh+c8s2mvVgtXuNPY5VUvd4kvdwvMem1SV7EU03gQ6sf6L2RQ9H32PtJskJkhzO5mh62ps3+rKvIYv+uyBQ==
 length: 1031
 -->
